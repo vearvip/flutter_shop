@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
       child: MaterialApp(
         title: '本地生活',
         debugShowCheckedModeBanner: false, // 去除右上角的debugger角标
-        theme: ThemeData(primaryColor: Colors.white),
+        theme: ThemeData(primaryColor: Colors.blue),
         home: Scaffold(
           body: pages[_currentPageIndex],
           bottomNavigationBar: BottomNavigationBar(
