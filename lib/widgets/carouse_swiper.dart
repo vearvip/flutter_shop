@@ -9,7 +9,6 @@ class CarouselSwiper extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(context, width: 750, height: 1334);
     return Container(
       height: ScreenUtil().setHeight(363),
       width: ScreenUtil().setWidth(750),

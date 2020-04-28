@@ -1,16 +1,14 @@
 # flutter_shop
 
-A new Flutter project.
+flutter商场模板
 
-## Getting Started
+## 关于项目
 
-This project is a starting point for a Flutter application.
+根据技术胖的flutter商城实战项目进行仿写 -- [Flutter实战视频-移动电商 （第69节更新）](https://jspang.com/detailed?id=53)
 
-A few resources to get you started if this is your first Flutter project:
+## 项目截图
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
